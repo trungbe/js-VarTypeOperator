@@ -11,6 +11,7 @@
       <change afterPath="$PROJECT_DIR$/../CreateTableAdvance2/table.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Create_table_basic/table.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../calendar/calendar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsConvertMoney/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsDeclare/baitap1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsDeclare/baitap2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsDeclare/baitap3.html" afterDir="false" />
@@ -23,13 +24,11 @@
       <change afterPath="$PROJECT_DIR$/../jsDisplayOutput/baitap4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsOperator/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsOperator/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Create simple form" beforeDir="false" afterPath="$PROJECT_DIR$/../Create simple form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Create-simple-table" beforeDir="false" afterPath="$PROJECT_DIR$/../Create-simple-table" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TaoCV" beforeDir="false" afterPath="$PROJECT_DIR$/../TaoCV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testbaitap4" beforeDir="false" afterPath="$PROJECT_DIR$/../testbaitap4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k2Q9X7HFsm8qTDx4hlfQHx1LkQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -59,6 +58,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -71,7 +71,8 @@
       <updated>1604896055650</updated>
       <workItem from="1604896056684" duration="1246000" />
       <workItem from="1604903812451" duration="198000" />
-      <workItem from="1604904117722" duration="1299000" />
+      <workItem from="1604904117722" duration="1681000" />
+      <workItem from="1604911894894" duration="23000" />
     </task>
     <servers />
   </component>
